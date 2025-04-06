@@ -11,7 +11,7 @@ Bu bot, komut satırında çalıştırılan bir programdır. Programın çalış
 2. Windows kullanıyorsanız, Windows'un arama kısmına "Komut istemi" veya "cmd" yazıp, çıkan programı çalıştırın.
 3. atproto kütüphanesini yüklemek için "pip install atproto" komutunu çalıştırın.**(SADECE İLK DEFA ÇALIŞTIRMAK İÇİN GEREKLİ)**
 4. Renkli çıktı elde etmek için "pip install colorama" komutunu çalıştırın.**(SADECE İLK DEFA ÇALIŞTIRMAK İÇİN GEREKLİ)**
-5. "python unfollow_cli.py -u KULLANICIADI.bsky.social -p UYGULAMAŞİFRESİ" şeklinde, kendi kullanıcı adınız ve uygulama şifrenizi düzenleyecek şekilde bu komutu çalıştırın.
+5. "python unfollow_cli.py -u KULLANICIADI.bsky.social -p UYGULAMAŞİFRESİ" komutunu, kendi kullanıcı adınız ve uygulama şifrenizi içerecek şekilde çalıştırın.
    ### NOT: Uygulama şifresi hesap şifreniz değildir!
    **Uygulama şifresi almak için:**
    1. Bluesky uygulamasından ayarlara girin.
