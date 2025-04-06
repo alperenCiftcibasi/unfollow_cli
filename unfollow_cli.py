@@ -10,7 +10,7 @@ from atproto_client import models # Hata tiplerini ve nsid'leri kullanmak için
 # --- Sabitler ---
 DEFAULT_FETCH_LIMIT = 100
 FETCH_PAGE_DELAY = 0.7
-UNFOLLOW_DELAY = 1.8       # Rate limit için kritik! Gerekirse artırın.
+UNFOLLOW_DELAY = 1.5       # Rate limit için kritik! Gerekirse artırın.
 MAX_UNFOLLOW_ATTEMPTS = 3
 
 # --- Yardımcı Fonksiyonlar (Renklendirme dahil - Değişiklik yok) ---
